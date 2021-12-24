@@ -3,7 +3,7 @@ layout: page
 title: Introduction
 permalink: /introduction/
 ---
-
+<img style="width:100%;height:auto;" src="/assets/img/introduction.png">
 #### 赛题名称
 <p> 预训练模型知识量度量</p>
 
