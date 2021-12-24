@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: leaderboard
 permalink: /leaderboard/
 title: Leaderboard
 ---
 
-coming soon!

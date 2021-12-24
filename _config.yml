@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 author: CMU MultiComp Lab
-name: MultiBench
-title: "MultiBench: Multiscale Benchmarks for Multimodal Representation Learning"
+name: KAT
+title: "Knowledge Ability Test"
 email:
 description: >
-  "MultiBench: Multiscale Benchmarks for Multimodal Representation Learning"
+  "Knowledge Ability Testg"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
@@ -16,7 +16,7 @@ baseurl: # the subpath of your site, e.g. /blog/
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: CMU-MultiComp-Lab
+github_username: kat2020
 google_analytics: UA-131744305-1
 youtube_channel: UCqlHIJTGYhiwQpNuPU5e2gg
 rss:  # notes rss
