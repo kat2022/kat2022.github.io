@@ -1,6 +1,6 @@
 ---
 layout: page_en
-permalink: /resources/
+permalink: /resources.en/
 title: Resources
 ---
 
