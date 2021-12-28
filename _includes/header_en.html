@@ -55,7 +55,7 @@
   
         <div class="trigger">
           
-          <a class="page-link" href="{{ '/home.en/' | relative_url }}">Home</a>
+          <a class="page-link" href="{{ '/' | relative_url }}">Home</a>
           <a class="page-link" href="{{ '/introduction.en/' | relative_url }}">Introduction</a>
           <a class="page-link" href="{{ '/datasets&submission.en/' | relative_url }}">Datasets & Submission</a>
           <a class="page-link" href="{{ '/leaderboard.en/' | relative_url }}">Leaderboard</a>
@@ -67,8 +67,8 @@
          -->
         <select onchange="self.location.href=options[selectedIndex].value" >
           <option>Language</option>
-          <option value ="{{ '/home.en/' | relative_url }}">English</option>
-          <option value ="{{ '/' | relative_url }}">简体中文</option>
+          <option value ="{{ '/' | relative_url }}">English</option>
+          <option value ="{{ '/home.cn/' | relative_url }}">简体中文</option>
         </select>
         </div>
       </nav>

@@ -55,7 +55,7 @@ table tr:nth-child(even){
 
       <div class="trigger">
         
-        <a class="page-link" href="{{ '/' | relative_url }}">Home</a>
+        <a class="page-link" href="{{ '/home.cn/' | relative_url }}">Home</a>
         <a class="page-link" href="{{ '/introduction/' | relative_url }}">Introduction</a>
         <a class="page-link" href="{{ '/datasets&submission/' | relative_url }}">Datasets & Submission</a>
         <a class="page-link" href="{{ '/leaderboard/' | relative_url }}">Leaderboard</a>
@@ -67,8 +67,8 @@ table tr:nth-child(even){
        -->
       <select onchange="self.location.href=options[selectedIndex].value" >
         <option>Language</option>
-        <option value ="{{ '/home.en/' | relative_url }}">English</option>
-        <option value ="{{ '/' | relative_url }}">简体中文</option>
+        <option value ="{{ '/' | relative_url }}">English</option>
+        <option value ="{{ '/home.cn' | relative_url }}">简体中文</option>
       </select>
       </div>
     </nav>
