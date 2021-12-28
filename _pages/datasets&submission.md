@@ -91,3 +91,14 @@ Columbia city与答案有1个重复token(columbia)，F1值为0.5
 
 <h3>Submission</h3>
 
+<form th:action="@{/file/upload}" method="post" enctype="multipart/form-data">
+    <table>
+        <tr>
+            <td><input type="file" title=' ' name="file" multiple="multiple" /></td>
+        </tr>
+        <tr>
+            <td><input type="submit" value="Submit"/></td>
+        </tr>
+         <hr>
+     </table>
+ </form>

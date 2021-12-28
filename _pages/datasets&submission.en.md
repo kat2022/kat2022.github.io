@@ -105,4 +105,27 @@ Finally, for this query, the prediction takes the maximum F1, i.e., F1 = 1
 
 
 <h3>Submission</h3>
+<!-- <form method="post" enctype="multipart/form-data">
+  <div>
+    <label for="image_uploads">Choose File to upload (PNG, JPG)</label>
+    <input type="file" id="image_uploads" name="file"  multiple>
+  </div>
+  <div class="preview">
+    <p>No files currently selected for upload</p>
+  </div>
+  <div>
+    <button>Submit</button>
+  </div>
+</form> --> 
 
+<form th:action="@{/file/upload}" method="post" enctype="multipart/form-data">
+    <table>
+        <tr>
+            <td><input type="file" title=' ' name="file" multiple="multiple" /></td>
+        </tr>
+        <tr>
+            <td><input type="submit" value="Submit"/></td>
+        </tr>
+         <hr>
+     </table>
+ </form>
