@@ -65,10 +65,10 @@ table tr:nth-child(even){
         
        <!--<a class="page-link" href="{{ '/contribute/' | relative_url }}">Contribute</a>
        -->
-      <select onchange="self.location.href=options[selectedIndex].value" >
+       <select style='position:absolute;right: 10px;top: 10px; ' onchange="self.location.href=options[selectedIndex].value" >
         <option>Language</option>
         <option value ="{{ '/' | relative_url }}">English</option>
-        <option value ="{{ '/home.cn' | relative_url }}">简体中文</option>
+        <option value ="{{ '/home.cn/' | relative_url }}">简体中文</option>
       </select>
       </div>
     </nav>
