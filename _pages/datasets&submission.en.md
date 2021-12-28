@@ -80,8 +80,11 @@ This track employs the metric F1 to measure the overlap between predicted answer
 
 #### Sample evaluation
 The sample and the evaluation is as follows, suppose that K = 3.
-<p class='more' style='text-align: center'>
-<img src="/assets/img/predict.png">
+
+| :----: | :-----|
+| Original Data | "qid":"001" <br> "query":"Unplugged is an album by Alicia Keys who is graduated from [MASK]." <br> "answer":["Columbia University"] |
+| Prediction Result   | "predict":["columbia university","ucla","columbia city"] |
+
 </p>
 F1 can be computed as follows:
 Columbia university are exactly matched with the gold answer when ignoring their case difference, and F1 = 1
@@ -95,7 +98,6 @@ Finally, for this query, the prediction takes the maximum F1, i.e., F1 = 1
 #### Data download
 
 | 2021/07/19   12:22:35         Contest data      Test Data - MD5                                                               (Data can be downloaded after registration) |
-|---------------------------------------------------------------------------------------------------------------------------------------------|
 | 2021/07/19   12:22:35         Contest data      Train data - MD5                                                               （(Data can be downloaded after registration) |
 | 2021/07/19   12:22:35         Sample submission      Sample submission - MD5                                                           (Data can be downloaded after registration)   |
 | 2021/07/19   12:22:35         Sample submission     baseline - MD5                                                             (Data can be downloaded after registration) |
