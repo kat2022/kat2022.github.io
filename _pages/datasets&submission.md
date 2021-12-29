@@ -81,12 +81,12 @@ Columbia city与答案有1个重复token(columbia)，F1值为0.5
 
 #### 数据下载
 
-| 2021/07/19   12:22:35         赛题数据      测试集 - MD5                                                               （报名后可下载数据） |
-|---------------------------------------------------------------------------------------------------------------------------------------------|
-| 2021/07/19   12:22:35         赛题数据      测试集 - MD5                                                               （报名后可下载数据） |
-| 2021/07/19   12:22:35         提交样例      提交样例 - MD5                                                           （报名后可下载数据）   |
-| 2021/07/19   12:22:35         提交样例      baseline - MD5                                                             （报名后可下载数据） |
-| 2021/07/19   12:22:35         示例程序      评测脚本 - MD5                                                           （报名后可下载数据）   |
+
+| 2021/07/19   12:22:35         赛题数据      测试集 - MD5                                                               [下载](https://drive.google.com/file/d/1CA6CE7r4MO9YJEoH-xOGxQivEe8MHYaz/view?usp=sharing) |
+| 2021/07/19   12:22:35         赛题数据      测试集 - MD5                                                               [下载](https://drive.google.com/file/d/1T59NPTk9tKm7VfyWG2uH1TZyq8BtMyrC/view?usp=sharing) |
+| 2021/07/19   12:22:35         提交样例      提交样例 - MD5                                                           [下载](https://drive.google.com/file/d/1Wcc5m6b1z1n0TNJch8uCBt4PZ-hX9NGm/view?usp=sharing)   |
+| 2021/07/19   12:22:35         提交样例      baseline - MD5                                                             [下载](https://drive.google.com/file/d/1SGuJsDvyTUvckvTsO7aO5oay1zEwdqZf/view?usp=sharing) |
+| 2021/07/19   12:22:35         示例程序      评测脚本 - MD5                                                           [下载](https://drive.google.com/file/d/1Z5jKK1ieu57npiUXHmyZepwy0TP-4sF6/view?usp=sharing)   |
 
 
 <h3>Submission</h3>

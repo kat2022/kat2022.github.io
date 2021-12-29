@@ -97,11 +97,11 @@ Finally, for this query, the prediction takes the maximum F1, i.e., F1 = 1
 
 #### Data download
 
-| 2021/07/19   12:22:35         Contest data      Test Data - MD5                                                               (Data can be downloaded after registration) |
-| 2021/07/19   12:22:35         Contest data      Train data - MD5                                                               （(Data can be downloaded after registration) |
-| 2021/07/19   12:22:35         Sample submission      Sample submission - MD5                                                           (Data can be downloaded after registration)   |
-| 2021/07/19   12:22:35         Sample submission     baseline - MD5                                                             (Data can be downloaded after registration) |
-| 2021/07/19   12:22:35         Sample baseline     Evaluate script- MD5                                                           (Data can be downloaded after registration)   |
+| 2021/07/19   12:22:35         Contest data      Test Data - MD5                                                               [Download](https://drive.google.com/file/d/1CA6CE7r4MO9YJEoH-xOGxQivEe8MHYaz/view?usp=sharing) |
+| 2021/07/19   12:22:35         Contest data      Train data - MD5                                                               [Download](https://drive.google.com/file/d/1T59NPTk9tKm7VfyWG2uH1TZyq8BtMyrC/view?usp=sharing) |
+| 2021/07/19   12:22:35         Sample submission      Sample submission - MD5                                                           [Download](https://drive.google.com/file/d/1Wcc5m6b1z1n0TNJch8uCBt4PZ-hX9NGm/view?usp=sharing)   |
+| 2021/07/19   12:22:35         Sample submission     baseline - MD5                                                             [Download](https://drive.google.com/file/d/1SGuJsDvyTUvckvTsO7aO5oay1zEwdqZf/view?usp=sharing) |
+| 2021/07/19   12:22:35         Sample baseline     Evaluate script- MD5                                                           [Download](https://drive.google.com/file/d/1Z5jKK1ieu57npiUXHmyZepwy0TP-4sF6/view?usp=sharing)   |
 
 
 <h3>Submission</h3>
